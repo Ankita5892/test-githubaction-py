@@ -1,4 +1,4 @@
-name: CI from main branch
+name: CI from py-app
 
 on:
   push:
